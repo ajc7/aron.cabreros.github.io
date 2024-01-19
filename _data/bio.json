@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/ajc7.png",
     "email": "ajc7@hawaii.edu",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://aron.cabreros.github.io",
     "summary": "I am studying for a B.S. in Electrical Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Spring 2024.",
     "location": { "address": "", "postalCode": "", "city": "", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
@@ -37,7 +37,7 @@
       ]
     }
   ],
-  "Projects": [
+  "projects": [
     {
       "Sophomore project": "UH Energy & Sustainability",
       "position": "Data Visualization Member",
